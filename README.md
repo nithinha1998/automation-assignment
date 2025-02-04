@@ -1,1 +1,1 @@
-# Indee-automation-assignment
+# automation-assignment
